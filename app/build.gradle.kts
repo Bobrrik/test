@@ -47,9 +47,9 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-    // https://mvnrepository.com/artifact/com.google.android.material/material
-    runtimeOnly(libs.material.v120)
-// https://mvnrepository.com/artifact/androidx.coordinatorlayout/coordinatorlayout
-    runtimeOnly(libs.androidx.coordinatorlayout)
+//    // https://mvnrepository.com/artifact/com.google.android.material/material
+//    runtimeOnly(libs.material.v120)
+//// https://mvnrepository.com/artifact/androidx.coordinatorlayout/coordinatorlayout
+//    runtimeOnly(libs.androidx.coordinatorlayout)
 
 }
